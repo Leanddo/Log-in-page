@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans&family=Nunito:ital@1&family=Space+Grotesk:wght@300&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Kumbh Sans', sans-serif;
+}
+body{
+    background-image: url('images/background-image.avif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+main{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#log-in-card{
+    background-color: white;
+    padding: 30px 50px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#loginbutton{
+    padding: 15px;
+    width: 300px;
+    margin: 20px 0;
+    border: none;
+    border-radius: 20px;
+    background:linear-gradient(100deg,#2179a6,#bc488f);
+    color: white;
+}
+#logininput{
+    padding: 10px;
+    width: 275px;
+    margin: 10px 0;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+#logininput:nth-child(4){
+    margin-bottom: 0;
+}
+#login{
+    margin-bottom: 20px;
+}
+#signuplink{
+    font-size: 10px;
+}
