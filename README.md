@@ -1,4 +1,4 @@
-<h1 align="center"Simple Login page </h1>
+<h1 align="center"> Simple Login page </h1>
 
 
 <p align="center">
@@ -34,7 +34,7 @@ pagina de Login
 
 
 ## Deploy 
-✅ [Github](https://leanddo.github.io/Calculadora-boracodar/)
+✅ [Github](https://leanddo.github.io/Log-in-page/)
 
 
 ## ⚖ Licença
